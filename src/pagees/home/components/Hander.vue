@@ -1,5 +1,5 @@
 <template>
-	<div>322</div>
+	<div class="color">400</div>
 </template>
 
 <script>
@@ -8,6 +8,7 @@ export default{
 }
 </script>
 
- <style>
- 	
+ <style lang="stylus" scoped>
+ 	.color
+ 		color:deepskyblue
  </style>
