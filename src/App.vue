@@ -11,4 +11,7 @@ export default {
 </script>
 
 <style>
+	#app > div{
+		background-color:#e5e3e3
+	}
 </style>

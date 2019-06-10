@@ -49,12 +49,11 @@ export default{
  	.hander
  		width:100%
  		height:1rem
- 		background-color:deepskyblue
+ 		background-color:white
  		.data	/* 手机头部消息与时间*/
  			width:100%
  			height:.4rem
  			line-height:.1rem
- 			background-color:orange
  			.icon-flex
  				display:flex
  				width:100%
@@ -71,6 +70,7 @@ export default{
  						border-radius:50%
  						float:left
  						margin-right:.04rem
+ 						border:.01rem solid black
  					i.iColor:nth-of-type(4)
  						background-color:white
  					i.iColor:nth-of-type(5)
@@ -86,7 +86,6 @@ export default{
  		.confirm /*确认订单*/
  			width:100%
  			height:.6rem
- 			background-color:aqua
 	 		.confirm-flex
 	 			display:flex
 	 			width:100%
