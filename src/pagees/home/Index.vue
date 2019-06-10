@@ -3,17 +3,13 @@
 		<index-hander></index-hander>
 	</div>
 </template>
-
 <script>
 import IndexHander from './components/Hander.vue'
 export default{
 	name : 'Index',
-	components : {
+	components: {
 		IndexHander
 	}
 }
 </script>
-
- <style>
- 	
- </style>
+<style></style>
